@@ -1,4 +1,4 @@
-import trollFace from "../assets/trollface.png";
+import trollFace from './../assets/Trollface.png';
 function Header() {
   return (
     <header className="header">
